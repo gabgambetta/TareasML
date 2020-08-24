@@ -1,1 +1,5 @@
 *.zip
+*.csv
+.ipynb_checkpoints/
+*.xlsx
+/PPT-ML
